@@ -262,7 +262,7 @@ Calls [`#message()`][message] internally.
 
 [author]: http://wooorm.com
 
-[vfile]: https://cdn.rawgit.com/vfile/vfile/f65510e/logo.svg
+[vfile]: https://cdn.jsdelivr.net/gh/vfile/vfile@f65510e/logo.svg
 
 [unified]: https://github.com/unifiedjs/unified
 

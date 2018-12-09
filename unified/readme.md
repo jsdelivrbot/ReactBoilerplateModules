@@ -870,7 +870,7 @@ work on [`ware`][ware], which was a huge initial inspiration.
 
 <!-- Definitions -->
 
-[logo]: https://cdn.rawgit.com/unifiedjs/unified/0cd3a41/logo.svg
+[logo]: https://cdn.jsdelivr.net/gh/unifiedjs/unified@0cd3a41/logo.svg
 
 [travis-badge]: https://img.shields.io/travis/unifiedjs/unified.svg
 
